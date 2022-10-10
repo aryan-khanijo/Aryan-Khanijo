@@ -29,4 +29,6 @@ I am Aryan Khanijo, currently working as a Software Engineer at the [Invansys Te
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Aryan-Khanijo&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-khanijo&hide=TeX&layout=compact&theme=dark)
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aryan-khanijo)
