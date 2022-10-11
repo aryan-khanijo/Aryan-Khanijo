@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
+
 I am Aryan Khanijo, currently working as a Software Engineer at the [Invansys Technologies](https://invansys.in/). I am a Back-end Python(Django)/JavaScript(Node.JS) developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aryan_Khanijo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/aryan-khanijo-8700a1229/)
