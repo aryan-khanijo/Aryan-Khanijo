@@ -90,7 +90,7 @@ I am Aryan Khanijo, currently working as a Software Engineer at the [Invansys Te
 ## ⚙️ My Setup
 ### PC
 
-![cpu](https://img.shields.io/badge/AMD%20Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![cpu](https://img.shields.io/badge/AMD%20Ryzen%207%205800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![gpu](https://img.shields.io/badge/NVIDIA-RTX2070S-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ## Laptop
