@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Aryan Khanijo, currently working as a Software Engineer at the [Invansys Technologies](). I am a Back-end developer (Python(Django)/JavaScript(Node.JS)) and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Aryan Khanijo, currently working as a Software Engineer at the [Aaizel International Technologies](https://aaizeltech.com). I am a Full-Stack developer (MERN/PERN Stack) and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 ## 👨 Socials
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-khanijo-8700a1229/)
