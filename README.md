@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Aryan Khanijo, currently working as a Software Engineer at the [Aaizel International Technologies](https://aaizeltech.com). I am a Full-Stack developer (MERN/PERN Stack) and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Aryan Khanijo, currently working as a Software Engineer at the [Squareboat Solutions Pvt. Ltd.](https://squareboat.com/). I am a Full-Stack developer (MERN/PERN Stack) and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 ## 👨 Socials
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-khanijo-8700a1229/)
@@ -94,7 +94,7 @@ I am Aryan Khanijo, currently working as a Software Engineer at the [Aaizel Inte
 
 ![mac](https://img.shields.io/badge/apple%20macbook%20air%20M1-333333?style=for-the-badge&logo=apple&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Aryan-Dragun&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aryan-khanijo&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-khanijo&hide=TeX&layout=compact&theme=dark)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
