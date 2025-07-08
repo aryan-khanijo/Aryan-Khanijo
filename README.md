@@ -89,7 +89,7 @@ I am Aryan Khanijo, currently working as a Software Engineer at the [Squareboat 
 ### PC
 
 ![cpu](https://img.shields.io/badge/AMD%20Ryzen%207%205800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![gpu](https://img.shields.io/badge/NVIDIA-RTX2070S-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![gpu](https://img.shields.io/badge/NVIDIA-RTX5070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ## Laptop
 
